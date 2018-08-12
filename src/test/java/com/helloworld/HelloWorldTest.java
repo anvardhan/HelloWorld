@@ -8,7 +8,7 @@ public class HelloWorldTest {
 	public void printHellowWorld()
 	{
 		String helloWorld = "Hello World!!!";
-		System.out.println("Hello World Application name is: "+helloWorld);
+		System.out.println("Application name is-- "+helloWorld);
 	}
 
 }
